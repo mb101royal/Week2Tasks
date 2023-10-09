@@ -1,0 +1,14 @@
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\bin\Debug\net6.0\Week2Tasks.exe
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\bin\Debug\net6.0\Week2Tasks.deps.json
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\bin\Debug\net6.0\Week2Tasks.runtimeconfig.json
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\bin\Debug\net6.0\Week2Tasks.dll
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\bin\Debug\net6.0\Week2Tasks.pdb
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.AssemblyInfoInputs.cache
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.AssemblyInfo.cs
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.csproj.CoreCompileInputs.cache
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.dll
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\refint\Week2Tasks.dll
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.pdb
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\Week2Tasks.genruntimeconfig.cache
+C:\Users\royal\source\repos\Week2Tasks\Week2Tasks\obj\Debug\net6.0\ref\Week2Tasks.dll
